@@ -19,7 +19,7 @@ class bcolors:
 
 
 def arguments():
-    print(bcolors.DARKCYAN + "\n[" + bcolors.YELLOW + "!" + bcolors.DARKCYAN + "]" + bcolors.YELLOW + " Use: python3 " + sys.argv[0] + " <IP-address>\n" + bcolors.ENDC)
+    print(bcolors.DARKCYAN + "\n[" + bcolors.YELLOW + "!" + bcolors.DARKCYAN + "]" + bcolors.YELLOW + " Usa: python3 o otro que tengas " + sys.argv[0] + " <IP-address>\n" + bcolors.ENDC)
     sys.exit(1)
 
 
