@@ -1,7 +1,7 @@
 # Scripts-Automatizacion-Linux
 Scripts para automatizar procesos en linux, mayoritariamente en bash
 
-###ESCANER DE SISTEMAS OPERATIVOS POR TTY
+# ESCANER DE SISTEMAS OPERATIVOS POR TTY
 Simplemente desplegamos el programa con el python que tengamos instalado 
 ```
 which python
