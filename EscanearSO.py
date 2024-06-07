@@ -42,10 +42,10 @@ if __name__ == '__main__':
         ttl_value = int(ttl_value)
 
         if ttl_value >= 0 and ttl_value <= 64:
-            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "EH Linux \n" + bcolors.ENDC)
+            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "EH Linux \n" + bcolors.ENDC)
         elif ttl_value >= 65 and ttl_value <= 128:
-            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "Eh Windows \n" + bcolors.ENDC)
+            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "Eh Windows \n" + bcolors.ENDC)
         else:
-            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "Hermano quien usa Solaris/AIX\n" + bcolors.ENDC)
+            print(bcolors.BOLD + "\n%s -> " % ip_address + bcolors.GREEN + "Hermano quien usa Solaris \n" + bcolors.ENDC)
     except:
         arguments()
