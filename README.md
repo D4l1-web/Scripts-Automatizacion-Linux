@@ -10,3 +10,11 @@ Sabiendo esto utilizamos el python el programa y una ip (igualmente si no te lo 
 ```
 python3 escaner.py ip
 ```
+# FUERZA BRUTA PID
+
+Un bucle continuo de request para que nos devuelva los procesos PID
+
+```
+python3 proc.py
+```
+en "ip" ponemos la ruta a la que queremos dirigirnos
