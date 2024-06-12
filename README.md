@@ -1,4 +1,4 @@
-# Scripts-Automatizacion-Linux
+# Scripts-Automatizacion
 Scripts para automatizar procesos en linux, mayoritariamente en bash
 
 # ESCANER DE SISTEMAS OPERATIVOS POR TTY
